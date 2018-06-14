@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/superyyl/TextureUnpacker/issues"
   },
-  "homepage": "https://github.com/superyyl/TextureUnpacker#readme"
+  "homepage": "https://github.com/superyyl/TextureUnpacker#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "plist": "^3.0.1",
+    "sharp": "^0.20.3"
+  }
 }
